@@ -1,5 +1,6 @@
 # Run this in terminal
 # streamlit run Browser_Based_ML_AR.py
+# To make a public url : do ngrok http 8501 (brew install ngrok / ngrok config add-authtoken YOUR_AUTH_TOKEN)
 #
 # Voice-driven AR-glasses simulation of the JASC fault classifier.
 #   - The screen is static: nothing scrolls, nothing is clicked.
