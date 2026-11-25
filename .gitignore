@@ -1,6 +1,7 @@
 /BIN/
 /DATA_CSV/
 /Data_Preprocessed/
+/.venv/
 
 **/Model_Results/
 **/Hyperparameter_Tuning_Results/
